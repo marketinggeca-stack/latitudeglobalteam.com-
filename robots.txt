@@ -1,0 +1,7 @@
+# Latitude · robots.txt
+User-agent: *
+Allow: /
+Disallow: /gracias.html
+
+# Activar cuando el dominio definitivo esté confirmado (ver README):
+# Sitemap: https://DOMINIO-DEFINITIVO/sitemap.xml
